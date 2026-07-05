@@ -48,7 +48,6 @@ class CalculatriceGUI(tk.Tk):
             "height": 2,
         }
 
-        # Minimal black/gray color scheme
         num_bg = "#2f2f2f"
         num_active = "#3a3a3a"
         op_bg = "#404040"
